@@ -12,7 +12,7 @@ pip install yt-dlp colorama
 
 ---
 
-## Como usar
+## Use com duplo click ou
 
 ```bash
 python video.py
